@@ -584,6 +584,17 @@ hr{
 	margin: 0 auto ;
 }
 
+.something_title a{
+	text-decoration: none;
+	cursor: pointer;
+
+}
+
+.weddingcard img{
+	filter: drop-shadow(1px 2px 3px #333);
+	
+}
+
 .trangle{
 	width:0;
 	height:0;
@@ -684,6 +695,10 @@ hr{
 	margin-left: 20px;
 }
 
+.wd_text p{
+	margin-left: 20px;
+	line-height: 5px;
+}
 
 /*somethinf interesting end*/
 
