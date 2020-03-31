@@ -590,10 +590,6 @@ hr{
 
 }
 
-.weddingcard img{
-	filter: drop-shadow(1px 2px 3px #333);
-	
-}
 
 .trangle{
 	width:0;
@@ -678,9 +674,15 @@ hr{
 	}
 }
 
+
 .weddingcard img{
+	filter: drop-shadow(1px 2px 3px #333);
 	cursor: pointer;
 	margin: 0 auto;
+}
+
+.weddingcard img:hover{
+	filter: drop-shadow(1px 2px 3px #955);
 
 }
 
