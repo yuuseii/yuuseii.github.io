@@ -47,6 +47,10 @@ img{
 	height: auto;
 }
 
+.wrap{
+	max-width: 1500px;
+}
+
 .menu{
 	transform: translateY(-800px);
 	width: 100%;
