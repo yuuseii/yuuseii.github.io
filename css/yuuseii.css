@@ -388,26 +388,24 @@ img{
 
 }
 
+.item th{
+	width: 150px;
+	padding: 15px;
+	background-color: #7AB2C433;
+	font-weight: bold;
+	margin: auto 0;
+	line-height: 30px;
+}
 .item td{
-	padding: 0 20px 20px 20px;
+	padding: 0 20px 10px 20px;
 	border: 1px solid #7AB2C433;
 	line-height: 22px;
 	text-align: justify;
 }
 
-
-.item th{
-	padding: 10px;
-	background-color: #7AB2C433;
-	font-weight: bold;
-}
-
 .item li{
-	margin:10px 0 0 0 ;
-}
+	margin-bottom: 10px;
 
-.texttype{
-	line-height: 25px;
 }
 
 .contact_center{
