@@ -455,7 +455,11 @@ img{
 	justify-content: flex-start;
 	flex-wrap: wrap;
 }
-
+.project_float, .project_float2, .project_float3, .project_float4, .project_float5, .project_float6, .project_float7{
+	float: left;
+	width: 48%;
+	padding: 1%;
+}
 
 /*    project   end    */
 
